@@ -1,4 +1,4 @@
-# Baekjoon
+# Baekjoon Java
 ### 백준 단계별 문제 풀이
 
 1. 입출력과 사칙 연산
@@ -37,7 +37,47 @@
    11. [10952 A+B - 5](https://github.com/wodnj5/Baekjoon/blob/main/src/Baekjoon10952.java)
    12. [10951 A+B - 4](https://github.com/wodnj5/Baekjoon/blob/main/src/Baekjoon10951.java)
 4. 1차원 배열
+   1. [10807 개수 세기](https://github.com/wodnj5/Baekjoon/blob/main/src/Baekjoon10807.java)
+   2. [10871 X보다 작은 수](https://github.com/wodnj5/Baekjoon/blob/main/src/Baekjoon10871.java)
+   3. [10818 최소, 최대](https://github.com/wodnj5/Baekjoon/blob/main/src/Baekjoon10818.java)
+   4. [2562 최대값](https://github.com/wodnj5/Baekjoon/blob/main/src/Baekjoon2562.java)
+   5. [10810 공 넣기](https://github.com/wodnj5/Baekjoon/blob/main/src/Baekjoon10810.java)
+   6. [10813 공 바꾸기](https://github.com/wodnj5/Baekjoon/blob/main/src/Baekjoon10813.java)
+   7. [5597 과제 안 내신 분](https://github.com/wodnj5/Baekjoon/blob/main/src/Baekjoon5597.java)
+   8. [3052 나머지](https://github.com/wodnj5/Baekjoon/blob/main/src/Baekjoon3052.java)
+   9. [10811 바구니 뒤집기](https://github.com/wodnj5/Baekjoon/blob/main/src/Baekjoon10811.java)
+   10. [1546 평균](https://github.com/wodnj5/Baekjoon/blob/main/src/Baekjoon1546.java)
 5. 문자열
+   1. [27866 문자와 문자열]()
+   2. [2743 단어 길이 재기]()
+   3. [9086 문자열]()
+   4. [11654 아스키코드]()
+   5. [11720 숫자의 합]()
+   6. [10809 알파벳 찾기]()
+   7. [2675 문자열 반복]()
+   8. [1152 단어의 개수]()
+   9. [2908 상수]()
+   10. [5622 다이얼]()
+   11. [11718 그대로 출력하기]()
 6. 심화
+   1. [25083 새싹]()
+   2. [3003 킹, 퀸, 룩, 비숍, 나이트, 폰]()
+   3. [2444 별 찍기 - 7]()
+   4. [10988 팰린드롬인지 확인하기]()
+   5. [1157 단어공부]()
+   6. [2941 크로아티아 알파벳]()
+   7. [1316 그룹 단어 체커]()
+   8. [25206 너의 평점은]()
 7. 2차원 배열
+   1. [2738 행렬덧셈]()
+   2. [2566 최댓값]()
+   3. [10798 세로읽기]()
+   4. [2563 색종이]()
 8. 일반 수학 1
+   1. [2745 진법 변환]()
+   2. [11005 진법 변환 2]()
+   3. [2720 세탁소 사장 동혁]()
+   4. [2903 중앙 이동 알고리즘]()
+   5. [2292 벌집]()
+   6. [1193 분수찾기]()
+   7. [2869 달팽이는 올라가고 싶다]()
