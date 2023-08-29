@@ -3,18 +3,15 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.Arrays;
 public class Baekjoon3052 {
-    public class Main {
-        public static void main(String[] args) throws IOException {
-            BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
-            int[] arr = new int[10];
-
-            for(int i=0;i<10;i++) {
-                int n = Integer.parseInt(br.readLine());
-                arr[i] = n%42;
-            }
-            int[] result = Arrays.stream(arr).distinct().toArray();
-            System.out.println(result.length);
+    public static void main(String[] args) throws IOException {
+        BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+        int[] arr = new int[10];
+        for (int i = 0; i < 10; i++) {
+            int n = Integer.parseInt(br.readLine());
+            arr[i] = n % 42;
         }
+        int[] result = Arrays.stream(arr).distinct().toArray();
+        System.out.println(result.length);
     }
 }
 
