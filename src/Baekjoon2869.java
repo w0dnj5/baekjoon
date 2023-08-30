@@ -16,6 +16,8 @@ public class Baekjoon2869 {
         if((v - b) % (a - b)!=0){
             day++;
         }
+
+        System.out.println(day);
     }
 }
 
