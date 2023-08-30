@@ -22,5 +22,4 @@ public class Baekjoon2563 {
         }
         System.out.print(total);
     }
-
 }
