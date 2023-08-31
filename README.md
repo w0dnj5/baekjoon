@@ -79,5 +79,14 @@
    3. [2720 세탁소 사장 동혁](https://github.com/wodnj5/Baekjoon/blob/main/src/Baekjoon2720.java)
    4. [2903 중앙 이동 알고리즘](https://github.com/wodnj5/Baekjoon/blob/main/src/Baekjoon2903.java)
    5. [2292 벌집](https://github.com/wodnj5/Baekjoon/blob/main/src/Baekjoon2292.java)
-   6. [1193 분수찾기]()
+   6. 1193 분수찾기
    7. [2869 달팽이는 올라가고 싶다](https://github.com/wodnj5/Baekjoon/blob/main/src/Baekjoon2869.java)
+9. 약수, 배수와 소수
+   1. [5086 배수와 약수](https://github.com/wodnj5/Baekjoon/blob/main/src/Baekjoon5086.java)
+   2. [2501 약수 구하기](https://github.com/wodnj5/Baekjoon/blob/main/src/Baekjoon2501.java)
+   3. [9506 약수들의 합](https://github.com/wodnj5/Baekjoon/blob/main/src/Baekjoon9506.java)
+   4. [1978 소수 찾기](https://github.com/wodnj5/Baekjoon/blob/main/src/Baekjoon1978.java)
+   5. [2581 소수](https://github.com/wodnj5/Baekjoon/blob/main/src/Baekjoon2581.java)
+   6. [11653 소인수분해](https://github.com/wodnj5/Baekjoon/blob/main/src/Baekjoon11653.java)
+10. 기하: 직사각형과 삼각형
+    1. [27323 직사각형](https://github.com/wodnj5/Baekjoon/blob/main/src/Baekjoon27323.java)
