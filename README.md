@@ -1,4 +1,4 @@
-_# Baekjoon Java
+# Baekjoon Java
 ### 백준 단계별 문제 풀이
 
 1. 입출력과 사칙 연산
