@@ -1,4 +1,4 @@
-# Baekjoon Java
+_# Baekjoon Java
 ### 백준 단계별 문제 풀이
 
 1. 입출력과 사칙 연산
@@ -90,3 +90,11 @@
    6. [11653 소인수분해](https://github.com/wodnj5/Baekjoon/blob/main/src/Baekjoon11653.java)
 10. 기하: 직사각형과 삼각형
     1. [27323 직사각형](https://github.com/wodnj5/Baekjoon/blob/main/src/Baekjoon27323.java)
+    2. [3009 네 번째 점](https://github.com/wodnj5/Baekjoon/blob/main/src/Baekjoon3009.java)
+    3. [15894 수학은 체육과목 입니다](https://github.com/wodnj5/Baekjoon/blob/main/src/Baekjoon15894.java)
+    4. [9063 대지](https://github.com/wodnj5/Baekjoon/blob/main/src/Baekjoon9063.java)
+    5. [10101 삼각형 외우기](https://github.com/wodnj5/Baekjoon/blob/main/src/Baekjoon10101.java)
+    6. [5073 삼각형과 세 변](https://github.com/wodnj5/Baekjoon/blob/main/src/Baekjoon5073.java)
+    7. [14215 세 막대](https://github.com/wodnj5/Baekjoon/blob/main/src/Baekjoon14215.java)
+11. 시간 복잡도
+    1.
