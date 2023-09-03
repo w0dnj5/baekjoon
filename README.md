@@ -97,4 +97,10 @@
     6. [5073 삼각형과 세 변](https://github.com/wodnj5/Baekjoon/blob/main/src/Baekjoon5073.java)
     7. [14215 세 막대](https://github.com/wodnj5/Baekjoon/blob/main/src/Baekjoon14215.java)
 11. 시간 복잡도
-    1.
+    1. [24262 알고리즘의 수행시간 1](https://github.com/wodnj5/Baekjoon/blob/main/src/Baekjoon24262.java)
+    2. [24263 알고리즘의 수행시간 2](https://github.com/wodnj5/Baekjoon/blob/main/src/Baekjoon24263.java)
+    3. [24264 알고리즘의 수행시간 3](https://github.com/wodnj5/Baekjoon/blob/main/src/Baekjoon24264.java)
+    4. 24265 알고리즘의 수행시간 4
+    5. [24266 알고리즘의 수행시간 5](https://github.com/wodnj5/Baekjoon/blob/main/src/Baekjoon24266.java)
+    6. 24267 알고리즘의 수행시간 6
+    7. [24313 알고리즘 수업 - 점근적 표기 1](https://github.com/wodnj5/Baekjoon/blob/main/src/Baekjoon24313.java)
