@@ -104,3 +104,7 @@
     5. [24266 알고리즘의 수행시간 5](https://github.com/wodnj5/Baekjoon/blob/main/src/Baekjoon24266.java)
     6. 24267 알고리즘의 수행시간 6
     7. [24313 알고리즘 수업 - 점근적 표기 1](https://github.com/wodnj5/Baekjoon/blob/main/src/Baekjoon24313.java)
+12. 브루트 포스
+    1. [2798 블랙잭](https://github.com/wodnj5/Baekjoon/blob/main/src/Baekjoon2798.java)
+    2. [2231 분해합](https://github.com/wodnj5/Baekjoon/blob/main/src/Baekjoon2231.java)
+    3. [19532 수학은 비대면강의입니다](https://github.com/wodnj5/Baekjoon/blob/main/src/Baekjoon19532.java)
