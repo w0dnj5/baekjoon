@@ -1,5 +1,6 @@
 # Baekjoon Java
 ### 백준 단계별 문제 풀이
+##### * 링크 비워놓은건 다시 풀기 위해서 입니다 *
 
 1. 입출력과 사칙 연산
    1. [2557 hello world!](https://github.com/wodnj5/Baekjoon/blob/main/src/Baekjoon2557.java)
