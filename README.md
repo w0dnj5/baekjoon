@@ -112,3 +112,9 @@
     4. 1018 체스판 다시 칠하기
     5. [1436 영화감독 숌](https://github.com/wodnj5/Baekjoon/blob/main/src/Baekjoon1436.java)
     6. 2839 설탕 배달
+13. 정렬
+    1. [2750 수 정렬하기](https://github.com/wodnj5/Baekjoon/blob/main/src/Baekjoon2750.java)
+    2. [2787 대표값2](https://github.com/wodnj5/Baekjoon/blob/main/src/Baekjoon2587.java)
+    3. [25305 커트라인](https://github.com/wodnj5/Baekjoon/blob/main/src/Baekjoon25305.java)
+    4. [2751 수 정렬하기 2](https://github.com/wodnj5/Baekjoon/blob/main/src/Baekjoon2751.java)
+    5. [10989 수 정렬하기 3](https://github.com/wodnj5/Baekjoon/blob/main/src/Baekjoon10989.java)
