@@ -3,7 +3,7 @@ import java.util.Arrays;
 import java.util.Comparator;
 import java.util.StringTokenizer;
 
-public class Baekjoon11650 {
+public class Baekjoon11651 {
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out));
@@ -21,13 +21,13 @@ public class Baekjoon11650 {
         Arrays.sort(arr, new Comparator<int[]>() {
             @Override
             public int compare(int[] o1, int[] o2) {
-                // 만약 x 좌표가 같을 경우에만 y좌표를 비교한다.
-                if(o1[0] == o2[0]) {
-                    return o1[1] - o2[1];
-                }
-                // 나머지 경우에는 x좌표끼리 비교한다.
-                else {
+                // 만약 y 좌표가 같을 경우에만 x좌표를 비교한다.
+                if(o1[1] == o2[1]) {
                     return o1[0] - o2[0];
+                }
+                // 나머지 경우에는 y좌표끼리 비교한다.
+                else {
+                    return o1[1] - o2[1];
                 }
             }
         });
