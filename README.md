@@ -118,3 +118,4 @@
     3. [25305 커트라인](https://github.com/wodnj5/Baekjoon/blob/main/src/Baekjoon25305.java)
     4. [2751 수 정렬하기 2](https://github.com/wodnj5/Baekjoon/blob/main/src/Baekjoon2751.java)
     5. [10989 수 정렬하기 3](https://github.com/wodnj5/Baekjoon/blob/main/src/Baekjoon10989.java)
+    6. [11650 좌표 정렬하기](https://github.com/wodnj5/Baekjoon/blob/main/src/Baekjoon11650.java)
