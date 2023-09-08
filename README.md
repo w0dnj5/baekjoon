@@ -121,3 +121,4 @@
     6. [11650 좌표 정렬하기](https://github.com/wodnj5/Baekjoon/blob/main/src/Baekjoon11650.java)
     7. [11651 좌표 정렬하기 2](https://github.com/wodnj5/Baekjoon/blob/main/src/Baekjoon11651.java)
     8. [1181 단어 정렬](https://github.com/wodnj5/Baekjoon/blob/main/src/Baekjoon1181.java)
+    9. 18870 좌표 압축
