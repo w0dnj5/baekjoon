@@ -122,3 +122,5 @@
     7. [11651 좌표 정렬하기 2](https://github.com/wodnj5/Baekjoon/blob/main/src/Baekjoon11651.java)
     8. [1181 단어 정렬](https://github.com/wodnj5/Baekjoon/blob/main/src/Baekjoon1181.java)
     9. 18870 좌표 압축
+14. 집합과 맵
+    1. [10815 숫자 카드](https://github.com/wodnj5/Baekjoon/blob/main/src/Baekjoon10815.java)
