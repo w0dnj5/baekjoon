@@ -126,3 +126,5 @@
     1. [10815 숫자 카드](https://github.com/wodnj5/Baekjoon/blob/main/src/Baekjoon10815.java)
     2. [14425 문자열 집합](https://github.com/wodnj5/Baekjoon/blob/main/src/Baekjoon14425.java)
     3. [7785 회사에 있는 사람](https://github.com/wodnj5/Baekjoon/blob/main/src/Baekjoon7785.java)
+    4. [1620 나는야 포켓몬 마스터 이다솜](https://github.com/wodnj5/Baekjoon/blob/main/src/Baekjoon1620.java)
+    5. [10816 숫자 카드 2](https://github.com/wodnj5/Baekjoon/blob/main/src/Baekjoon10816.java)
