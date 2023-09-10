@@ -124,3 +124,5 @@
     9. 18870 좌표 압축
 14. 집합과 맵
     1. [10815 숫자 카드](https://github.com/wodnj5/Baekjoon/blob/main/src/Baekjoon10815.java)
+    2. [14425 문자열 집합](https://github.com/wodnj5/Baekjoon/blob/main/src/Baekjoon14425.java)
+    3. [7785 회사에 있는 사람](https://github.com/wodnj5/Baekjoon/blob/main/src/Baekjoon7785.java)
