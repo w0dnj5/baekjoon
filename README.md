@@ -128,3 +128,6 @@
     3. [7785 회사에 있는 사람](https://github.com/wodnj5/Baekjoon/blob/main/src/Baekjoon7785.java)
     4. [1620 나는야 포켓몬 마스터 이다솜](https://github.com/wodnj5/Baekjoon/blob/main/src/Baekjoon1620.java)
     5. [10816 숫자 카드 2](https://github.com/wodnj5/Baekjoon/blob/main/src/Baekjoon10816.java)
+    6. [1764 듣보잡](https://github.com/wodnj5/Baekjoon/blob/main/src/Baekjoon1764.java)
+    7. [1269 대칭 차집합](https://github.com/wodnj5/Baekjoon/blob/main/src/Baekjoon1269.java)
+    8. [11478 서로 다른 부분 문자열의 개수](https://github.com/wodnj5/Baekjoon/blob/main/src/Baekjoon11478.java)
