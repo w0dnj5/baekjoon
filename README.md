@@ -131,3 +131,7 @@
     6. [1764 듣보잡](https://github.com/wodnj5/Baekjoon/blob/main/src/Baekjoon1764.java)
     7. [1269 대칭 차집합](https://github.com/wodnj5/Baekjoon/blob/main/src/Baekjoon1269.java)
     8. [11478 서로 다른 부분 문자열의 개수](https://github.com/wodnj5/Baekjoon/blob/main/src/Baekjoon11478.java)
+15. 약수, 배수와 소수2
+    1. [1934 최소공배수](https://github.com/wodnj5/Baekjoon/blob/main/src/Baekjoon1934.java)
+    2. [13241 최소공배수](https://github.com/wodnj5/Baekjoon/blob/main/src/Baekjoon13241.java)
+    3. [1735 분수 합](https://github.com/wodnj5/Baekjoon/blob/main/src/Baekjoon1735.java)
