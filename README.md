@@ -135,3 +135,5 @@
     1. [1934 최소공배수](https://github.com/wodnj5/Baekjoon/blob/main/src/Baekjoon1934.java)
     2. [13241 최소공배수](https://github.com/wodnj5/Baekjoon/blob/main/src/Baekjoon13241.java)
     3. [1735 분수 합](https://github.com/wodnj5/Baekjoon/blob/main/src/Baekjoon1735.java)
+    4. [2485 가로수](https://github.com/wodnj5/Baekjoon/blob/main/src/Baekjoon2485.java)
+    5. [4134 다음 소수](https://github.com/wodnj5/Baekjoon/blob/main/src/Baekjoon4134.java)
