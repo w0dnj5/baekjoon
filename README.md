@@ -138,3 +138,4 @@
     4. [2485 가로수](https://github.com/wodnj5/Baekjoon/blob/main/src/Baekjoon2485.java)
     5. [4134 다음 소수](https://github.com/wodnj5/Baekjoon/blob/main/src/Baekjoon4134.java)
     6. [4948 베르트랑 공준](https://github.com/wodnj5/Baekjoon/blob/main/src/Baekjoon4948.java)
+    7. [17103 골드바흐 파티션]
