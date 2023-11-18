@@ -2,7 +2,7 @@
 
 ### 백준 단계별 문제 풀이
 
-#####    * 링크 비워놓은건 다시 풀기 위해서 입니다 *
+#####         * 링크 비워놓은건 다시 풀기 위해서 입니다 *
 
 1. 입출력과 사칙 연산
     1. [2557 hello world!](https://github.com/wodnj5/Baekjoon/blob/main/src/Baekjoon2557.java)
@@ -142,3 +142,5 @@
     6. [4948 베르트랑 공준](https://github.com/wodnj5/Baekjoon/blob/main/src/Baekjoon4948.java)
     7. 17103 골드바흐 파티션
     8. [13909 창문 닫기](https://github.com/wodnj5/Baekjoon/blob/main/src/Baekjoon13909.java)
+16. 스택, 큐, 덱
+    1. [28278 스택 2](https://github.com/wodnj5/Baekjoon/blob/main/src/Baekjoon28278.java)
