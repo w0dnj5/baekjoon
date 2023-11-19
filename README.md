@@ -2,8 +2,6 @@
 
 ### 백준 단계별 문제 풀이
 
-####         * 링크 비워놓은건 다시 풀기 위해서 입니다 *
-
 1. 입출력과 사칙 연산
     1. [2557 hello world!](https://github.com/wodnj5/Baekjoon/blob/main/src/Baekjoon2557.java)
     2. [1000 A+B](https://github.com/wodnj5/Baekjoon/blob/main/src/Baekjoon1000.java)
@@ -146,3 +144,4 @@
     1. [28278 스택 2](https://github.com/wodnj5/Baekjoon/blob/main/src/Baekjoon28278.java)
     2. [10773 제로](https://github.com/wodnj5/Baekjoon/blob/main/src/Baekjoon10773.java)
     3. [9012 괄호](https://github.com/wodnj5/Baekjoon/blob/main/src/Baekjoon9012.java)
+    4. [4949 균형 잡힌 세상]
