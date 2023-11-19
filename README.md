@@ -146,3 +146,4 @@
     3. [9012 괄호](https://github.com/wodnj5/Baekjoon/blob/main/src/Baekjoon9012.java)
     4. [4949 균형 잡힌 세상](https://github.com/wodnj5/Baekjoon/blob/main/src/Baekjoon4949.java)
     5. [12789 도키도키 간식드리미](https://github.com/wodnj5/Baekjoon/blob/main/src/Baekjoon12789.java)
+    6. [18258 큐 2](https://github.com/wodnj5/Baekjoon/blob/main/src/Baekjoon18258.java)
