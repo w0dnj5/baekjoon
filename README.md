@@ -148,3 +148,4 @@
     5. [12789 도키도키 간식드리미](https://github.com/wodnj5/Baekjoon/blob/main/src/Baekjoon12789.java)
     6. [18258 큐 2](https://github.com/wodnj5/Baekjoon/blob/main/src/Baekjoon18258.java)
     7. [2164 카드 2](https://github.com/wodnj5/Baekjoon/blob/main/src/Baekjoon2164.java)
+    8. [11866 요세푸스 문제 0](https://github.com/wodnj5/Baekjoon/blob/main/src/Baekjoon11866.java)
