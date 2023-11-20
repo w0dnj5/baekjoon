@@ -157,4 +157,5 @@
 
 ## Class 1
 
-1. [2475 검증수](https://github.com/wodnj5/Baekjoon/blob/main/src/Baekjoon2475.java)
+- [2475 검증수](https://github.com/wodnj5/Baekjoon/blob/main/src/Baekjoon2475.java)
+- [2741 N찍기](https://github.com/wodnj5/Baekjoon/blob/main/src/Baekjoon2741.java)
