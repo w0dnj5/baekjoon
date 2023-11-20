@@ -151,3 +151,10 @@
     8. [11866 요세푸스 문제 0](https://github.com/wodnj5/Baekjoon/blob/main/src/Baekjoon11866.java)
     9. [28279 덱 2](https://github.com/wodnj5/Baekjoon/blob/main/src/Baekjoon28279.java)
     10. [2346 풍선 터트리기](https://github.com/wodnj5/Baekjoon/blob/main/src/Baekjoon2346.java)
+    11. [24511 queuestack]
+
+# Solved.ac
+
+## Class 1
+
+1. [2475 검증수](https://github.com/wodnj5/Baekjoon/blob/main/src/Baekjoon2475.java)
