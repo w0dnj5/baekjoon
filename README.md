@@ -159,3 +159,4 @@
 
 - [2475 검증수](https://github.com/wodnj5/Baekjoon/blob/main/src/Baekjoon2475.java)
 - [2741 N찍기](https://github.com/wodnj5/Baekjoon/blob/main/src/Baekjoon2741.java)
+- [10250 ACM 호텔](https://github.com/wodnj5/Baekjoon/blob/main/src/Baekjoon10250.java)
