@@ -1,4 +1,4 @@
-# Baekjoon Java
+# Baekjoon Java (Solved.ac)
 
 ## 백준 단계별 문제 풀이
 
@@ -21,7 +21,7 @@
 
 ## Solved.ac
 
-1. [Class 1](#class-1)
+- [Class 1](#class-1)
 
 ### 1. 입출력과 사칙 연산
 
@@ -205,10 +205,9 @@
 10. [2346 풍선 터트리기](https://github.com/wodnj5/Baekjoon/blob/main/src/Baekjoon2346.java)
 11. 24511 queuestack
 
-# Solved.ac
-
-## Class 1
+### Class 1
 
 - [2475 검증수](https://github.com/wodnj5/Baekjoon/blob/main/src/Baekjoon2475.java)
 - [2741 N찍기](https://github.com/wodnj5/Baekjoon/blob/main/src/Baekjoon2741.java)
 - [10250 ACM 호텔](https://github.com/wodnj5/Baekjoon/blob/main/src/Baekjoon10250.java)
+- [2577 숫자의 개수](https://github.com/wodnj5/Baekjoon/blob/main/src/Baekjoon2577.java)
