@@ -222,3 +222,4 @@
 - [1920 수 찾기](https://github.com/wodnj5/Baekjoon/blob/main/src/Baekjoon1920.java)
 - [10828 스택](https://github.com/wodnj5/Baekjoon/blob/main/src/Baekjoon10828.java)
 - [10845 큐](https://github.com/wodnj5/Baekjoon/blob/main/src/Baekjoon10845.java)
+- [10866 덱](https://github.com/wodnj5/Baekjoon/blob/main/src/Baekjoon10866.java)
