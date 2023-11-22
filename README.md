@@ -221,3 +221,4 @@
 - [11050 이항 계수 1](https://github.com/wodnj5/Baekjoon/blob/main/src/Baekjoon11050.java)
 - [1920 수 찾기](https://github.com/wodnj5/Baekjoon/blob/main/src/Baekjoon1920.java)
 - [10828 스택](https://github.com/wodnj5/Baekjoon/blob/main/src/Baekjoon10828.java)
+- [10845 큐](https://github.com/wodnj5/Baekjoon/blob/main/src/Baekjoon10845.java)
