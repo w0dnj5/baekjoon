@@ -219,3 +219,4 @@
 - [1259 팰린드롬수](https://github.com/wodnj5/Baekjoon/blob/main/src/Baekjoon1259.java)
 - [2609 최대공약수와 최소공배수](https://github.com/wodnj5/Baekjoon/blob/main/src/Baekjoon2609.java)
 - [11050 이항 계수 1](https://github.com/wodnj5/Baekjoon/blob/main/src/Baekjoon11050.java)
+- [1920 수 찾기](https://github.com/wodnj5/Baekjoon/blob/main/src/Baekjoon1920.java)
