@@ -223,5 +223,6 @@
 - [10828 스택](https://github.com/wodnj5/Baekjoon/blob/main/src/Baekjoon10828.java)
 - [10845 큐](https://github.com/wodnj5/Baekjoon/blob/main/src/Baekjoon10845.java)
 - [10866 덱](https://github.com/wodnj5/Baekjoon/blob/main/src/Baekjoon10866.java)
-- [2775 부녀회장이 될테야](https://github.com/wodnj5/Baekjoon/blob/main/src/Baekjoon10866.java)
+- [2775 부녀회장이 될테야](https://github.com/wodnj5/Baekjoon/blob/main/src/Baekjoon2775.java)
 - [15829 Hashing]
+- [1679 팩토리얼 0의 개수](https://github.com/wodnj5/Baekjoon/blob/main/src/Baekjoon1679.java)
