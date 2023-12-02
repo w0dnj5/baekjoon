@@ -143,9 +143,9 @@
 1. [24262 알고리즘의 수행시간 1](https://github.com/wodnj5/Baekjoon/blob/main/src/Baekjoon24262.java)
 2. [24263 알고리즘의 수행시간 2](https://github.com/wodnj5/Baekjoon/blob/main/src/Baekjoon24263.java)
 3. [24264 알고리즘의 수행시간 3](https://github.com/wodnj5/Baekjoon/blob/main/src/Baekjoon24264.java)
-4. 24265 알고리즘의 수행시간 4
+4. [24265 알고리즘의 수행시간 4]
 5. [24266 알고리즘의 수행시간 5](https://github.com/wodnj5/Baekjoon/blob/main/src/Baekjoon24266.java)
-6. 24267 알고리즘의 수행시간 6
+6. [24267 알고리즘의 수행시간 6]
 7. [24313 알고리즘 수업 - 점근적 표기 1](https://github.com/wodnj5/Baekjoon/blob/main/src/Baekjoon24313.java)
 
 ### 12. 브루트 포스
@@ -167,7 +167,7 @@
 6. [11650 좌표 정렬하기](https://github.com/wodnj5/Baekjoon/blob/main/src/Baekjoon11650.java)
 7. [11651 좌표 정렬하기 2](https://github.com/wodnj5/Baekjoon/blob/main/src/Baekjoon11651.java)
 8. [1181 단어 정렬](https://github.com/wodnj5/Baekjoon/blob/main/src/Baekjoon1181.java)
-9. 18870 좌표 압축
+9. [18870 좌표 압축]
 
 ### 14. 집합과 맵
 
@@ -188,7 +188,7 @@
 4. [2485 가로수](https://github.com/wodnj5/Baekjoon/blob/main/src/Baekjoon2485.java)
 5. [4134 다음 소수](https://github.com/wodnj5/Baekjoon/blob/main/src/Baekjoon4134.java)
 6. [4948 베르트랑 공준](https://github.com/wodnj5/Baekjoon/blob/main/src/Baekjoon4948.java)
-7. 17103 골드바흐 파티션
+7. [17103 골드바흐 파티션]
 8. [13909 창문 닫기](https://github.com/wodnj5/Baekjoon/blob/main/src/Baekjoon13909.java)
 
 ### 16. 스택, 큐, 덱
@@ -203,7 +203,7 @@
 8. [11866 요세푸스 문제 0](https://github.com/wodnj5/Baekjoon/blob/main/src/Baekjoon11866.java)
 9. [28279 덱 2](https://github.com/wodnj5/Baekjoon/blob/main/src/Baekjoon28279.java)
 10. [2346 풍선 터트리기](https://github.com/wodnj5/Baekjoon/blob/main/src/Baekjoon2346.java)
-11. 24511 queuestack
+11. [24511 queuestack]
 
 ### Class 1
 
@@ -223,3 +223,5 @@
 - [10828 스택](https://github.com/wodnj5/Baekjoon/blob/main/src/Baekjoon10828.java)
 - [10845 큐](https://github.com/wodnj5/Baekjoon/blob/main/src/Baekjoon10845.java)
 - [10866 덱](https://github.com/wodnj5/Baekjoon/blob/main/src/Baekjoon10866.java)
+- [2775 부녀회장이 될테야](https://github.com/wodnj5/Baekjoon/blob/main/src/Baekjoon10866.java)
+- [15829 Hashing]
