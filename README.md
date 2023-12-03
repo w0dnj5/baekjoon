@@ -155,7 +155,7 @@
 3. [19532 수학은 비대면강의입니다](https://github.com/wodnj5/Baekjoon/blob/main/src/Baekjoon19532.java)
 4. [1018 체스판 다시 칠하기](https://github.com/wodnj5/Baekjoon/blob/main/src/Baekjoon1018.java)
 5. [1436 영화감독 숌](https://github.com/wodnj5/Baekjoon/blob/main/src/Baekjoon1436.java)
-6. 2839 설탕 배달
+6. [2839 설탕 배달](https://github.com/wodnj5/Baekjoon/blob/main/src/Baekjoon2839.java)
 
 ### 13. 정렬
 
