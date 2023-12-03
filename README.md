@@ -228,3 +228,4 @@
 - [1679 팩토리얼 0의 개수](https://github.com/wodnj5/Baekjoon/blob/main/src/Baekjoon1679.java)
 - [7568 덩치](https://github.com/wodnj5/Baekjoon/blob/main/src/Baekjoon7568.java)
 - [18110 solved.ac](https://github.com/wodnj5/Baekjoon/blob/main/src/Baekjoon18110.java)
+- [1966 프린터 큐](https://github.com/wodnj5/Baekjoon/blob/main/src/Baekjoon1966.java)
