@@ -116,7 +116,7 @@
 3. [2720 세탁소 사장 동혁](https://github.com/wodnj5/Baekjoon/blob/main/src/Baekjoon2720.java)
 4. [2903 중앙 이동 알고리즘](https://github.com/wodnj5/Baekjoon/blob/main/src/Baekjoon2903.java)
 5. [2292 벌집](https://github.com/wodnj5/Baekjoon/blob/main/src/Baekjoon2292.java)
-6. 1193 분수찾기
+6. [1193 분수찾기]
 7. [2869 달팽이는 올라가고 싶다](https://github.com/wodnj5/Baekjoon/blob/main/src/Baekjoon2869.java)
 
 ### 9. 약수, 배수와 소수
@@ -227,3 +227,4 @@
 - [15829 Hashing]
 - [1679 팩토리얼 0의 개수](https://github.com/wodnj5/Baekjoon/blob/main/src/Baekjoon1679.java)
 - [7568 덩치](https://github.com/wodnj5/Baekjoon/blob/main/src/Baekjoon7568.java)
+- [18110 solved.ac](https://github.com/wodnj5/Baekjoon/blob/main/src/Baekjoon18110.java)
