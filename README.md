@@ -229,3 +229,4 @@
 - [7568 덩치](https://github.com/wodnj5/Baekjoon/blob/main/src/Baekjoon7568.java)
 - [18110 solved.ac](https://github.com/wodnj5/Baekjoon/blob/main/src/Baekjoon18110.java)
 - [1966 프린터 큐](https://github.com/wodnj5/Baekjoon/blob/main/src/Baekjoon1966.java)
+- [2108 통계학](https://github.com/wodnj5/Baekjoon/blob/main/src/Baekjoon2108.java)
