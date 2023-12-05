@@ -231,3 +231,4 @@
 - [1966 프린터 큐](https://github.com/wodnj5/Baekjoon/blob/main/src/Baekjoon1966.java)
 - [2108 통계학](https://github.com/wodnj5/Baekjoon/blob/main/src/Baekjoon2108.java)
 - [1654 랜선 자르기]
+- [1874 스택 수열](https://github.com/wodnj5/Baekjoon/blob/main/src/Baekjoon1874.java)
