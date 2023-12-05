@@ -224,9 +224,10 @@
 - [10845 큐](https://github.com/wodnj5/Baekjoon/blob/main/src/Baekjoon10845.java)
 - [10866 덱](https://github.com/wodnj5/Baekjoon/blob/main/src/Baekjoon10866.java)
 - [2775 부녀회장이 될테야](https://github.com/wodnj5/Baekjoon/blob/main/src/Baekjoon2775.java)
-- [15829 Hashing]
+- [15829 Hashing](https://github.com/wodnj5/Baekjoon/blob/main/src/Baekjoon15829.java)
 - [1679 팩토리얼 0의 개수](https://github.com/wodnj5/Baekjoon/blob/main/src/Baekjoon1679.java)
 - [7568 덩치](https://github.com/wodnj5/Baekjoon/blob/main/src/Baekjoon7568.java)
 - [18110 solved.ac](https://github.com/wodnj5/Baekjoon/blob/main/src/Baekjoon18110.java)
 - [1966 프린터 큐](https://github.com/wodnj5/Baekjoon/blob/main/src/Baekjoon1966.java)
 - [2108 통계학](https://github.com/wodnj5/Baekjoon/blob/main/src/Baekjoon2108.java)
+- [1654 랜선 자르기]
