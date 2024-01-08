@@ -233,3 +233,7 @@
 - [1654 랜선 자르기]
 - [1874 스택 수열](https://github.com/wodnj5/Baekjoon/blob/main/src/Baekjoon1874.java)
 - [18111 마인크래프트](https://github.com/wodnj5/Baekjoon/blob/main/src/Baekjoon18111.java)
+
+### Class 3
+
+- [11047 동전 0](https://github.com/wodnj5/Baekjoon/blob/main/src/Baekjoon11047.java)
