@@ -238,4 +238,12 @@
 
 - [11047 동전 0](https://github.com/wodnj5/Baekjoon/blob/main/src/Baekjoon11047.java)
 - [11723 집합](https://github.com/wodnj5/Baekjoon/blob/main/src/Baekjoon11723.java)
-- [11399 ATM](https://github.com/wodnj5/Baekjoon/blob/main/src/Baekjoon11399java)
+- [11399 ATM](https://github.com/wodnj5/Baekjoon/blob/main/src/Baekjoon11399.java)
+
+### DFS, BFS 알고리즘
+
+- [1012 유기농 배추](https://github.com/wodnj5/Baekjoon/blob/main/src/Baekjoon1012.java)
+- [1068 트리](https://github.com/wodnj5/Baekjoon/blob/main/src/Baekjoon1068.java)
+- [1388 바닥장식](https://github.com/wodnj5/Baekjoon/blob/main/src/Baekjoon1388.java)
+- [2606 바이러스](https://github.com/wodnj5/Baekjoon/blob/main/src/Baekjoon2606.java)
+- [16173 점프왕 쩰리 (Small)](https://github.com/wodnj5/Baekjoon/blob/main/src/Baekjoon16173java)

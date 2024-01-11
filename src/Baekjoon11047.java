@@ -22,9 +22,6 @@ public class Baekjoon11047 {
         int tmp = k;
         int count = 0;
         for (int i = n - 1; i > -1; i--) {
-            if (coins[i] > tmp) {
-                continue;
-            }
             int coin = coins[i];
             count += tmp / coin;
             tmp %= coin;
