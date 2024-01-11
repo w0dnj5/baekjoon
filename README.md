@@ -247,3 +247,5 @@
 - [1388 바닥장식](https://github.com/wodnj5/Baekjoon/blob/main/src/Baekjoon1388.java)
 - [2606 바이러스](https://github.com/wodnj5/Baekjoon/blob/main/src/Baekjoon2606.java)
 - [16173 점프왕 쩰리 (Small)](https://github.com/wodnj5/Baekjoon/blob/main/src/Baekjoon16173java)
+- [26169 세 번 이내에 사과를 먹자](https://github.com/wodnj5/Baekjoon/blob/main/src/Baekjoon26169.java)
+- [26169 사과 빨리 먹기](https://github.com/wodnj5/Baekjoon/blob/main/src/Baekjoon26170.java)
