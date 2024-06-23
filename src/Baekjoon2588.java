@@ -1,6 +1,9 @@
-import java.io.IOException;
+package src;
+
 import java.io.BufferedReader;
+import java.io.IOException;
 import java.io.InputStreamReader;
+
 public class Baekjoon2588 {
     public static void main(String[] args) throws IOException
     {

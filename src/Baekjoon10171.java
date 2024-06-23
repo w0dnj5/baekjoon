@@ -1,3 +1,5 @@
+package src;
+
 public class Baekjoon10171 {
     public static void main(String[] args)
     {

@@ -1,3 +1,5 @@
+package src;
+
 import java.util.Scanner;
 
 public class Baekjoon1193 {

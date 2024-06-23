@@ -1,3 +1,5 @@
+package src;
+
 import java.io.*;
 import java.util.StringTokenizer;
 public class Baekjoon1330 {
