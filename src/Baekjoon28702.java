@@ -33,7 +33,7 @@ public class Baekjoon28702 {
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         String[] inputs = new String[INPUT_LENGTH];
-        for(int i = 0; i < 3; i++) {
+        for(int i = 0; i < INPUT_LENGTH; i++) {
             inputs[i] = br.readLine();
         }
 
