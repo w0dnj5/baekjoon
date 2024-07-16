@@ -22,8 +22,10 @@
 ## Solved.ac
 
 - [Class 1](#class-1)
+- [Class 2](#class-2)
+- [Class 3](#class-3)
 
-### 1. 입출력과 사칙 연산
+## 1. 입출력과 사칙 연산
 
 1. [2557 hello world!](https://github.com/wodnj5/Baekjoon/blob/main/src/Baekjoon2557.java)
 2. [1000 A+B](https://github.com/wodnj5/Baekjoon/blob/main/src/Baekjoon1000.java)
@@ -39,7 +41,7 @@
 12. [10171 고양이](https://github.com/wodnj5/Baekjoon/blob/main/src/Baekjoon10171.java)
 13. [10172 개](https://github.com/wodnj5/Baekjoon/blob/main/src/Baekjoon10172.java)
 
-### 2. 조건문
+## 2. 조건문
 
 1. [1330 두 수 비교하기](https://github.com/wodnj5/Baekjoon/blob/main/src/Baekjoon1330.java)
 2. [9498 시험 성적](https://github.com/wodnj5/Baekjoon/blob/main/src/Baekjoon9498.java)
@@ -49,7 +51,7 @@
 6. [2525 오븐 시계](https://github.com/wodnj5/Baekjoon/blob/main/src/Baekjoon2525.java)
 7. [2480 주사위 세 개](https://github.com/wodnj5/Baekjoon/blob/main/src/Baekjoon2480.java)
 
-### 3. 반복문
+## 3. 반복문
 
 1. [2739 구구단](https://github.com/wodnj5/Baekjoon/blob/main/src/Baekjoon2739.java)
 2. [10950 A+B - 3](https://github.com/wodnj5/Baekjoon/blob/main/src/Baekjoon10950.java)
@@ -64,7 +66,7 @@
 11. [10952 A+B - 5](https://github.com/wodnj5/Baekjoon/blob/main/src/Baekjoon10952.java)
 12. [10951 A+B - 4](https://github.com/wodnj5/Baekjoon/blob/main/src/Baekjoon10951.java)
 
-### 4. 1차원 배열
+## 4. 1차원 배열
 
 1. [10807 개수 세기](https://github.com/wodnj5/Baekjoon/blob/main/src/Baekjoon10807.java)
 2. [10871 X보다 작은 수](https://github.com/wodnj5/Baekjoon/blob/main/src/Baekjoon10871.java)
@@ -77,7 +79,7 @@
 9. [10811 바구니 뒤집기](https://github.com/wodnj5/Baekjoon/blob/main/src/Baekjoon10811.java)
 10. [1546 평균](https://github.com/wodnj5/Baekjoon/blob/main/src/Baekjoon1546.java)
 
-### 5. 문자열
+## 5. 문자열
 
 1. [27866 문자와 문자열](https://github.com/wodnj5/Baekjoon/blob/main/src/Baekjoon27866.java)
 2. [2743 단어 길이 재기](https://github.com/wodnj5/Baekjoon/blob/main/src/Baekjoon2743.java)
@@ -91,7 +93,7 @@
 10. [5622 다이얼](https://github.com/wodnj5/Baekjoon/blob/main/src/Baekjoon5622.java)
 11. [11718 그대로 출력하기](https://github.com/wodnj5/Baekjoon/blob/main/src/Baekjoon11718.java)
 
-### 6. 심화
+## 6. 심화
 
 1. [25083 새싹](https://github.com/wodnj5/Baekjoon/blob/main/src/Baekjoon25803.java)
 2. [3003 킹, 퀸, 룩, 비숍, 나이트, 폰](https://github.com/wodnj5/Baekjoon/blob/main/src/Baekjoon3003.java)
@@ -102,14 +104,14 @@
 7. [1316 그룹 단어 체커](https://github.com/wodnj5/Baekjoon/blob/main/src/Baekjoon1316.java)
 8. [25206 너의 평점은](https://github.com/wodnj5/Baekjoon/blob/main/src/Baekjoon25206.java)
 
-### 7. 2차원 배열
+## 7. 2차원 배열
 
 1. [2738 행렬덧셈](https://github.com/wodnj5/Baekjoon/blob/main/src/Baekjoon2738.java)
 2. [2566 최댓값](https://github.com/wodnj5/Baekjoon/blob/main/src/Baekjoon2566.java)
 3. [10798 세로읽기](https://github.com/wodnj5/Baekjoon/blob/main/src/Baekjoon10798.java)
 4. [2563 색종이](https://github.com/wodnj5/Baekjoon/blob/main/src/Baekjoon2563.java)
 
-### 8. 일반 수학 1
+## 8. 일반 수학 1
 
 1. [2745 진법 변환](https://github.com/wodnj5/Baekjoon/blob/main/src/Baekjoon2745.java)
 2. [11005 진법 변환 2](https://github.com/wodnj5/Baekjoon/blob/main/src/Baekjoon11005.java)
@@ -119,7 +121,7 @@
 6. [1193 분수찾기]
 7. [2869 달팽이는 올라가고 싶다](https://github.com/wodnj5/Baekjoon/blob/main/src/Baekjoon2869.java)
 
-### 9. 약수, 배수와 소수
+## 9. 약수, 배수와 소수
 
 1. [5086 배수와 약수](https://github.com/wodnj5/Baekjoon/blob/main/src/Baekjoon5086.java)
 2. [2501 약수 구하기](https://github.com/wodnj5/Baekjoon/blob/main/src/Baekjoon2501.java)
@@ -128,7 +130,7 @@
 5. [2581 소수](https://github.com/wodnj5/Baekjoon/blob/main/src/Baekjoon2581.java)
 6. [11653 소인수분해](https://github.com/wodnj5/Baekjoon/blob/main/src/Baekjoon11653.java)
 
-### 10. 기하: 직사각형과 삼각형
+## 10. 기하: 직사각형과 삼각형
 
 1. [27323 직사각형](https://github.com/wodnj5/Baekjoon/blob/main/src/Baekjoon27323.java)
 2. [3009 네 번째 점](https://github.com/wodnj5/Baekjoon/blob/main/src/Baekjoon3009.java)
@@ -138,7 +140,7 @@
 6. [5073 삼각형과 세 변](https://github.com/wodnj5/Baekjoon/blob/main/src/Baekjoon5073.java)
 7. [14215 세 막대](https://github.com/wodnj5/Baekjoon/blob/main/src/Baekjoon14215.java)
 
-### 11. 시간 복잡도
+## 11. 시간 복잡도
 
 1. [24262 알고리즘의 수행시간 1](https://github.com/wodnj5/Baekjoon/blob/main/src/Baekjoon24262.java)
 2. [24263 알고리즘의 수행시간 2](https://github.com/wodnj5/Baekjoon/blob/main/src/Baekjoon24263.java)
@@ -148,7 +150,7 @@
 6. [24267 알고리즘의 수행시간 6]
 7. [24313 알고리즘 수업 - 점근적 표기 1](https://github.com/wodnj5/Baekjoon/blob/main/src/Baekjoon24313.java)
 
-### 12. 브루트 포스
+## 12. 브루트 포스
 
 1. [2798 블랙잭](https://github.com/wodnj5/Baekjoon/blob/main/src/Baekjoon2798.java)
 2. [2231 분해합](https://github.com/wodnj5/Baekjoon/blob/main/src/Baekjoon2231.java)
@@ -157,7 +159,7 @@
 5. [1436 영화감독 숌](https://github.com/wodnj5/Baekjoon/blob/main/src/Baekjoon1436.java)
 6. [2839 설탕 배달](https://github.com/wodnj5/Baekjoon/blob/main/src/Baekjoon2839.java)
 
-### 13. 정렬
+## 13. 정렬
 
 1. [2750 수 정렬하기](https://github.com/wodnj5/Baekjoon/blob/main/src/Baekjoon2750.java)
 2. [2787 대표값2](https://github.com/wodnj5/Baekjoon/blob/main/src/Baekjoon2587.java)
@@ -169,7 +171,7 @@
 8. [1181 단어 정렬](https://github.com/wodnj5/Baekjoon/blob/main/src/Baekjoon1181.java)
 9. [18870 좌표 압축]
 
-### 14. 집합과 맵
+## 14. 집합과 맵
 
 1. [10815 숫자 카드](https://github.com/wodnj5/Baekjoon/blob/main/src/Baekjoon10815.java)
 2. [14425 문자열 집합](https://github.com/wodnj5/Baekjoon/blob/main/src/Baekjoon14425.java)
@@ -180,7 +182,7 @@
 7. [1269 대칭 차집합](https://github.com/wodnj5/Baekjoon/blob/main/src/Baekjoon1269.java)
 8. [11478 서로 다른 부분 문자열의 개수](https://github.com/wodnj5/Baekjoon/blob/main/src/Baekjoon11478.java)
 
-### 15. 약수, 배수와 소수2
+## 15. 약수, 배수와 소수2
 
 1. [1934 최소공배수](https://github.com/wodnj5/Baekjoon/blob/main/src/Baekjoon1934.java)
 2. [13241 최소공배수](https://github.com/wodnj5/Baekjoon/blob/main/src/Baekjoon13241.java)
@@ -191,7 +193,7 @@
 7. [17103 골드바흐 파티션]
 8. [13909 창문 닫기](https://github.com/wodnj5/Baekjoon/blob/main/src/Baekjoon13909.java)
 
-### 16. 스택, 큐, 덱
+## 16. 스택, 큐, 덱
 
 1. [28278 스택 2](https://github.com/wodnj5/Baekjoon/blob/main/src/Baekjoon28278.java)
 2. [10773 제로](https://github.com/wodnj5/Baekjoon/blob/main/src/Baekjoon10773.java)
@@ -205,7 +207,7 @@
 10. [2346 풍선 터트리기](https://github.com/wodnj5/Baekjoon/blob/main/src/Baekjoon2346.java)
 11. [24511 queuestack]
 
-### Class 1
+## Class 1
 
 - [2475 검증수](https://github.com/wodnj5/Baekjoon/blob/main/src/Baekjoon2475.java)
 - [2741 N찍기](https://github.com/wodnj5/Baekjoon/blob/main/src/Baekjoon2741.java)
@@ -214,7 +216,7 @@
 - [2920 음계](https://github.com/wodnj5/Baekjoon/blob/main/src/Baekjoon2920.java)
 - [31403 A + B - C](https://github.com/wodnj5/Baekjoon/blob/main/src/Baekjoon31403.java)
 
-### Class 2
+## Class 2
 
 - [4153 직각삼각형](https://github.com/wodnj5/Baekjoon/blob/main/src/Baekjoon4153.java)
 - [1259 팰린드롬수](https://github.com/wodnj5/Baekjoon/blob/main/src/Baekjoon1259.java)
@@ -237,7 +239,7 @@
 - [30802 웰컴 키트](https://github.com/wodnj5/Baekjoon/blob/main/src/Baekjoon30802.java)
 - [28702 FizzBuzz](https://github.com/wodnj5/Baekjoon/blob/main/src/Baekjoon28702.java)
 
-### Class 3
+## Class 3
 
 - [11047 동전 0](https://github.com/wodnj5/Baekjoon/blob/main/src/Baekjoon11047.java)
 - [11723 집합](https://github.com/wodnj5/Baekjoon/blob/main/src/Baekjoon11723.java)
@@ -248,7 +250,7 @@
 - [11724 연결 요소의 개수](https://github.com/wodnj5/Baekjoon/blob/main/src/Baekjoon11724.java)
 - [11726 2xn 타일링](https://github.com/wodnj5/Baekjoon/blob/main/src/Baekjoon11726.java)
 
-### DFS, BFS 알고리즘
+## DFS, BFS 알고리즘
 
 - [1012 유기농 배추](https://github.com/wodnj5/Baekjoon/blob/main/src/Baekjoon1012.java)
 - [1068 트리](https://github.com/wodnj5/Baekjoon/blob/main/src/Baekjoon1068.java)
