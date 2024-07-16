@@ -245,6 +245,7 @@
 - [1003 피보나치 함수](https://github.com/wodnj5/Baekjoon/blob/main/src/Baekjoon1003.java)
 - [1260 DFS와 BFS](https://github.com/wodnj5/Baekjoon/blob/main/src/Baekjoon1260.java)
 - [5430 AC](https://github.com/wodnj5/Baekjoon/blob/main/src/Baekjoon5430.java)
+- [11724 연결 요소의 개수](https://github.com/wodnj5/Baekjoon/blob/main/src/Baekjoon11724.java)
 
 ### DFS, BFS 알고리즘
 
