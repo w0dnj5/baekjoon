@@ -212,6 +212,7 @@
 - [10250 ACM 호텔](https://github.com/wodnj5/Baekjoon/blob/main/src/Baekjoon10250.java)
 - [2577 숫자의 개수](https://github.com/wodnj5/Baekjoon/blob/main/src/Baekjoon2577.java)
 - [2920 음계](https://github.com/wodnj5/Baekjoon/blob/main/src/Baekjoon2920.java)
+- [31403 A + B - C](https://github.com/wodnj5/Baekjoon/blob/main/src/Baekjoon31403.java))
 
 ### Class 2
 
