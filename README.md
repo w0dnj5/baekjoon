@@ -250,6 +250,7 @@
 - [11724 연결 요소의 개수](https://github.com/wodnj5/Baekjoon/blob/main/src/Baekjoon11724.java)
 - [11726 2xn 타일링](https://github.com/wodnj5/Baekjoon/blob/main/src/Baekjoon11726.java)
 - [2630 색종이 만들기](https://github.com/wodnj5/Baekjoon/blob/main/src/Baekjoon2630.kt)
+- [5525 IOI](https://github.com/wodnj5/Baekjoon/blob/main/src/Baekjoon5525.kt)
 
 ## DFS, BFS 알고리즘
 
