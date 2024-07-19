@@ -251,6 +251,7 @@
 - [11726 2xn 타일링](https://github.com/wodnj5/Baekjoon/blob/main/src/Baekjoon11726.java)
 - [2630 색종이 만들기](https://github.com/wodnj5/Baekjoon/blob/main/src/Baekjoon2630.kt)
 - [5525 IOI](https://github.com/wodnj5/Baekjoon/blob/main/src/Baekjoon5525.kt)
+- [2579 계단 오르기](https://github.com/wodnj5/baekjoon/blob/main/src/BOJ2579.kt)
 
 ## DFS, BFS 알고리즘
 
