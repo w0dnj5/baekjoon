@@ -17,6 +17,5 @@ public class Baekjoon1085 {
         // x와 w-x 중 최소값과 y, h-y 중 최소값을 구한 후 최소값끼리 비교
         int r = Math.min(Math.min(x, w-x), Math.min(y, h-y));
         System.out.println(r);
-        
     }
 }
